@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5015d68ec204e014ab94151ecc919214
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioGol: {instanceID: 0}
+  - audioRaqueta: {instanceID: 0}
+  - audioRebote: {instanceID: 0}
+  - ContadorIzq: {instanceID: 0}
+  - ContadorDer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
